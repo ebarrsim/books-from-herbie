@@ -1,4 +1,6 @@
-.btn-primary {
-  color: white;
-  background-color: red;
+.container {
+  display: block;
+  text-align: center;
+  position: relative;
+  left: 60px;
 }

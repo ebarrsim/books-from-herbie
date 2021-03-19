@@ -3,19 +3,26 @@
   position: absolute;
   width: 100%;
   top: 0;
+  height: 35%;
 }
-.btn btn-primary {
-  color: red;
+
+.btn-primary {
+  margin-top: 55px;
 }
+
 p {
   text-align: center;
   margin: 0 auto;
   padding: 5px 30px 30px 30px;
+  width: 100%;
+  position: relative;
+  right: 80px;
 }
 
 img {
-  height: 180px;
+  height: 150px;
   display: block;
   margin: 0 auto;
-  margin-top: 20px;
+  position: relative;
+  right: 80px;
 }
